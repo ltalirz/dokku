@@ -12,4 +12,5 @@ tests
 !contrib/dokku-update
 !contrib/bash-completion
 !contrib/docker
-vendor
+vendor\
+
